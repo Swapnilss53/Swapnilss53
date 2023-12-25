@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Swapnilss53
+- 👋 Hi, I’m Swapnil Suresh Shinde
 - 👀 I’m interested in Computer Science, Data Analytics, Data Science
 - 🌱 I’m currently learning python programming language and willing to learn machine learning
 - 💞️ I’m looking to collaborate on ...
